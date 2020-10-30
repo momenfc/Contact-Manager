@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/momenfc/Contact-Manager.git/static/css/main.36497136.chunk.css",
+    "main.js": "/momenfc/Contact-Manager.git/static/js/main.9ccc046c.chunk.js",
+    "main.js.map": "/momenfc/Contact-Manager.git/static/js/main.9ccc046c.chunk.js.map",
+    "runtime-main.js": "/momenfc/Contact-Manager.git/static/js/runtime-main.1ca9a4ef.js",
+    "runtime-main.js.map": "/momenfc/Contact-Manager.git/static/js/runtime-main.1ca9a4ef.js.map",
+    "static/css/2.40243d22.chunk.css": "/momenfc/Contact-Manager.git/static/css/2.40243d22.chunk.css",
+    "static/js/2.bb633d8a.chunk.js": "/momenfc/Contact-Manager.git/static/js/2.bb633d8a.chunk.js",
+    "static/js/2.bb633d8a.chunk.js.map": "/momenfc/Contact-Manager.git/static/js/2.bb633d8a.chunk.js.map",
+    "index.html": "/momenfc/Contact-Manager.git/index.html",
+    "precache-manifest.ff5c5de29a18c53a94a572cab4378a79.js": "/momenfc/Contact-Manager.git/precache-manifest.ff5c5de29a18c53a94a572cab4378a79.js",
+    "service-worker.js": "/momenfc/Contact-Manager.git/service-worker.js",
+    "static/css/2.40243d22.chunk.css.map": "/momenfc/Contact-Manager.git/static/css/2.40243d22.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/momenfc/Contact-Manager.git/static/css/main.36497136.chunk.css.map",
+    "static/js/2.bb633d8a.chunk.js.LICENSE.txt": "/momenfc/Contact-Manager.git/static/js/2.bb633d8a.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/momenfc/Contact-Manager.git/static/media/fa-solid-900.8e1ed89b.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ca9a4ef.js",
+    "static/css/2.40243d22.chunk.css",
+    "static/js/2.bb633d8a.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.9ccc046c.chunk.js"
+  ]
+}
